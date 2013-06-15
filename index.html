@@ -1,5 +1,6 @@
 ---
 layout: home
+<<<<<<< HEAD
 title: Home
 ---
 <div class="recent-posts">
@@ -15,4 +16,23 @@ title: Home
     </ul>
   </div>
   
+=======
+title: Ember Hot Seat - Home
+---
+<div class="row-fluid">
+  <div class="span9">
+    <div class="recent-posts">
+      <div class="row-fluid">
+        <div class="span12">
+          {% for post in site.posts limit 5 %}
+          <h2><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+          <span class="post_date"> <b>Posted on:</b> {{ post.date | date: "%A, %b %d, %Y" }}</span>
+          <p class="post_excerpt">{{post.excerpt}}</p>
+          {% endfor %} 
+        </div>
+      </div>     
+    </div>
+  </div>
+  {% include sponsors.html %}
+>>>>>>> combined repos
 </div>
