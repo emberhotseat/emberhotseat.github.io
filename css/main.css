@@ -158,10 +158,6 @@ a.post_title:active {text-decoration:none;}
   text-align: center;
 }
 
-<<<<<<< HEAD
-.recent-posts ul li{
-  margin-bottom: 15px;
-=======
 .sponsor_blurb{
   font-style: italic;
   font-size: 12px;
@@ -180,7 +176,6 @@ a.post_title:active {text-decoration:none;}
   float: left;
   padding: 5px;
   color: #1a1717;
->>>>>>> combined repos
 }
 
 .footer_item {
