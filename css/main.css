@@ -183,9 +183,9 @@ a.post_title:active {text-decoration:none;}
 }
 
 .footer_item a{
-  -webkit-transition: all .5s ease-in-out;
-     -moz-transition: all .5s ease-in-out;
-          transition: all .5s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
 }
 
 .footer_item a:link {text-decoration:none; color: #1a1717;}
@@ -206,6 +206,10 @@ a.post_title:active {text-decoration:none;}
 
 ul.post_links{
   list-style-type: none;
+}
+
+li.post_date{
+  font-weight: bold;
 }
 
 
