@@ -36,10 +36,13 @@ body{
     text-decoration: none;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     color:  #fff;
+    -webkit-transition: all .3s ease-in-out;
+       -moz-transition: all .3s ease-in-out;
+            transition: all .3s ease-in-out;
 }
 
 .navbar .nav > li > a:hover{
-  color: #ccc;
+  color: #ddd;
 }
 
 .jumbotron{
@@ -183,9 +186,9 @@ a.post_title:active {text-decoration:none;}
 }
 
 .footer_item a{
-  -webkit-transition: all .5s ease-in-out;
-     -moz-transition: all .5s ease-in-out;
-          transition: all .5s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
 }
 
 .footer_item a:link {text-decoration:none; color: #1a1717;}
@@ -204,9 +207,12 @@ a.post_title:active {text-decoration:none;}
 
 /* Episode List */
 
-.page_title{
-
+ul.post_links{
+  list-style-type: none;
 }
 
+li.post_date{
+  font-weight: bold;
+}
 
 
