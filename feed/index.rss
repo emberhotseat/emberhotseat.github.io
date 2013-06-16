@@ -27,7 +27,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://emberhotseat.com{{ post.url }}?utm_source=rss</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <enclosure url="{{post.file}}" type="audio/mpeg"/>
+      <enclosure url={{post.file}} type="audio/mpeg"/>
       <author>{{ post.author }}</author>
       <guid>http://emberhotseat.com{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
