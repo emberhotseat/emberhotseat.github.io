@@ -18,7 +18,7 @@ title: Ember Hot Seat Episodes
           {% endif %}
         {% endunless %}
 
-        <li class="post_date">{{ post.date | date:"%b %d" }} <a class="post_url" href="{{ post.url }}">{{ post.title }}</a></li>
+        <li class="post_date">{{ post.date | date:"%b %d" }} - <a class="post_url" href="{{ post.url }}">{{ post.title }}</a></li>
         <p>{{post.excerpt}}</p>
       {% endfor %}
     </ul>
