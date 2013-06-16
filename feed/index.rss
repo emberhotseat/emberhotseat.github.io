@@ -24,7 +24,7 @@
       <title>Ember Hot Seat Episode 002</title>
       <link>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html?utm_source=rss</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 -0700</pubDate>
-      <enclosure url="" type="audio/mpeg"/>
+      <enclosure url= type="audio/mpeg"/>
       <author></author>
       <guid>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002</guid>
       <description>&lt;p&gt;Hey Ember Hot Seat listeners! We&amp;#8217;re back this week with &lt;a href='http://twitter.com/kaspertidemann'&gt;Kasper Tidemann&lt;/a&gt;, CTO and cofounder of Meemo, in the Hot Seat. He&amp;#8217;s going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he&amp;#8217;s overcome some of the difficulties. We also touch on why it&amp;#8217;s important to give back to the community and why Ember was the framework of choice for his company. Kasper made mention of his &lt;a href='http://kaspertidemann.com'&gt;blog&lt;/a&gt; and to a video he would record of his own JS framework &lt;a href='http://vimeo.com/68185861'&gt;meeho.js&lt;/a&gt;. I hope you enjoy!&lt;/p&gt;
@@ -46,7 +46,7 @@
       <title>Ember Hot Seat Episode 001</title>
       <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
       <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
-      <enclosure url="" type="audio/mpeg"/>
+      <enclosure url= type="audio/mpeg"/>
       <author></author>
       <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
       <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#8217;s episode, we speak with &lt;a href='http://twitter.com/tomdale'&gt;Tom Dale&lt;/a&gt;, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#8217;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;
