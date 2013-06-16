@@ -3,22 +3,23 @@ layout: default
 title: Ember Hot Seat Episodes
 ---
 
-<h2 class="page_title">Episodes</h2>
+<h2 class="page_title tk-myriad-pro">Episodes</h2>
   <div>
     <ul class="post_links">
       {% for post in site.posts %}
 
         {% unless post.next %}
-            <h4 class="post_year">{{ post.date | date: '%Y' }}</h4>
+            <h4 class="post_year tk-myriad-pro">{{ post.date | date: '%Y' }}</h4>
           {% else %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
           {% if year != nyear %}
-            <h4 class="post_year">{{ post.date | date: '%Y' }}</h4>
+            <h4 class="post_year tk-myriad-pro">{{ post.date | date: '%Y' }}</h4>
           {% endif %}
         {% endunless %}
 
         <li class="post_date">{{ post.date | date:"%b %d" }} <a class="post_url" href="{{ post.url }}">{{ post.title }}</a></li>
+        <p>{{post.excerpt}}</p>
       {% endfor %}
     </ul>
   </div>

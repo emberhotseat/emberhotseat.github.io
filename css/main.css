@@ -204,9 +204,8 @@ a.post_title:active {text-decoration:none;}
 
 /* Episode List */
 
-.page_title{
-
+ul.post_links{
+  list-style-type: none;
 }
-
 
 
