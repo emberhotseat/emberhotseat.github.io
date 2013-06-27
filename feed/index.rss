@@ -21,6 +21,24 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 003: Adam Hawkins</title>
+      <link>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html?utm_source=rss</link>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 -0700</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep003.mp3" type="audio/mpeg" length="18431918" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003</guid>
+      <description>&lt;p&gt;This week in the Hot Seat, we have our first international guest &lt;a href='http://twitter.com/adman65'&gt;Adam Hawkins&lt;/a&gt;. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.&lt;/p&gt;
+
+&lt;p&gt;Sign up on the home page for updates and follow us on Twitter at &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;. If you&amp;#8217;d like to be in the Hot Seat, send us a tweet and we&amp;#8217;ll get you scheduled.&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F98635426' width='100%'&gt; &lt;/iframe&gt;</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.</itunes:subtitle>
+      <itunes:summary>This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>38:23</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 002: Kasper Tidemann</title>
       <link>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html?utm_source=rss</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 -0700</pubDate>
@@ -47,13 +65,13 @@
       <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
       <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep001.mp3" type="audio/mpeg" length="18776734" />
-      <author>DeVaris Brown</author>
+      <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
       <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#8217;s episode, we speak with &lt;a href='http://twitter.com/tomdale'&gt;Tom Dale&lt;/a&gt;, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#8217;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;
 
 &lt;p&gt;Sign up on the home page for updates and follow us on Twitter at &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95297517' width='100%'&gt; &lt;/iframe&gt;</description>
-      <itunes:author>DeVaris Brown</itunes:author>
+      <itunes:author>Ember Hot Seat</itunes:author>
       <itunes:subtitle>In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.</itunes:subtitle>
       <itunes:summary>In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>

@@ -215,4 +215,16 @@ li.post_date{
   font-weight: bold;
 }
 
+/* About Page */
+.bio{
+  padding: 20px;
+  text-align: center;
+}
+
+.bio_pic{
+  padding: 20px;
+  text-align: center;
+}
+
+
 

@@ -6,9 +6,21 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Wed, 26 Jun 2013 21:08:41 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2013 21:08:41 -0700</lastBuildDate>
+    <pubDate>Wed, 26 Jun 2013 22:06:00 -0700</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2013 22:06:00 -0700</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 003: Adam Hawkins</title>
+      <link>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html?utm_source=rss</link>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003</guid>
+      <description>&lt;p&gt;This week in the Hot Seat, we have our first international guest &lt;a href='http://twitter.com/adman65'&gt;Adam Hawkins&lt;/a&gt;. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.&lt;/p&gt;
+
+&lt;p&gt;Sign up on the home page for updates and follow us on Twitter at &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;. If you&amp;#8217;d like to be in the Hot Seat, send us a tweet and we&amp;#8217;ll get you scheduled.&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F98635426' width='100%'&gt; &lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 002: Kasper Tidemann</title>

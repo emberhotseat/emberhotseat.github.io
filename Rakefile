@@ -1,27 +1,51 @@
 #!/usr/bin/env rake
 
-POST_TEMPLATE = '_templates/default_post.txt'
+def default_blog_template()
+  File.read('_templates/default_post.txt')
+end
+
+POST_TEMPLATE = default_blog_template()
 
 namespace :blog do
+
   desc "Create a new blog post with a custom title"
-  task :new, :title do |t, params|
+  task :new, [:title] do |t, params|
+
+    raise "\n[ERROR] You need an author.yml file, try: cp author.yml{.example,} and then run me again" unless File.exists?('author.yml')
+    author = YAML.load(File.read('author.yml'))
+
+    # strip the string
     title = params.title.downcase.strip
 
-    title.gsub! /['`"]/, ""
+    # blow away apostrophes
+    title.gsub! /['`]/,""
+
+    # @ --> at, and & --> and
     title.gsub! /\s*@\s*/, " at "
     title.gsub! /\s*&\s*/, " and "
-    title.gsub! /\s*[^A-Za-z0-9\.\-]\s*/, '-'
-    title.gsub! /-+/,"-"
-    title.gsub! /\A[-\.]+|[-\.]+\z/, ""
 
+    # replace all non alphanumeric, underscore or periods with underscore
+    title.gsub! /\s*[^A-Za-z0-9\.\-]\s*/, '-'
+
+    # convert double underscores to single
+    title.gsub! /-+/,"-"
+
+    # strip off leading/trailing underscore
+    title.gsub! /\A[-\.]+|[-\.]+\z/,""
+
+    # now add the time to the string
     title.insert 0, Time.now.strftime("%Y-%m-%d-")
+
+    # add the file extension
     title.insert -1, '.md'
 
-    rendered_post = File.read(POST_TEMPLATE).gsub /{{title}}/, params.title
+    rendered_post = POST_TEMPLATE.gsub /{{(title|name|github|twitter|email)}}/, "{{title}}" => params.title, "{{name}}" => author['name'], "{{github}}" => author['github'], "{{twitter}}" => author['twitter'], "{{email}}" => author['email']
 
+    #create the file
     File.open('_posts/' + title, 'w') {|f| f.write(rendered_post) }
 
     puts "Created " + title
+
   end
 end
 
