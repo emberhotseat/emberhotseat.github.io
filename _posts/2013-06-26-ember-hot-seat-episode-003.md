@@ -7,7 +7,7 @@ comments: true
 duration: 38:23
 file: ep003
 length: 18431918
-excerpt: "This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for standard UI components, and a host of other fun topics."
+excerpt: "This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics."
 ---
 
 This week in the Hot Seat, we have our first international guest [Adam Hawkins](http://twitter.com/adman65). Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics. 
