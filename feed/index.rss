@@ -10,7 +10,7 @@ layout: nil
     <itunes:author>DeVaris Brown</itunes:author>
     <itunes:keywords>ember, ember.js, podcasts, tips, tricks, tutorials, training, programming, javascript, mvc, emberhotseat</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="http://www.emberhotseat.com/images/emberhotseat.png"/>
+    <itunes:image href="http://emberhotseat.com/images/emberhotseat.png"/>
     <itunes:owner>
       <itunes:name>Ember Hot Seat</itunes:name>
       <itunes:email>dbrown@zendesk.com</itunes:email>
