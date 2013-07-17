@@ -21,6 +21,24 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 004: Toran Billups</title>
+      <link>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html?utm_source=rss</link>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 -0700</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep004.mp3" type="audio/mpeg" length="17861403" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004</guid>
+      <description>&lt;p&gt;Hey there Embereños! Sorry for the delay in updates. It was the holiday season, so that meant travel for everyone, including myself. I&amp;#8217;m fortunate to have my midwest brethren, &lt;a href='http://twitter.com/toranb'&gt;Toran Billups&lt;/a&gt; on the show this week. Toran dives into his journey into Ember from a Python developer&amp;#8217;s perspective, testing with Ember(shoutout to &lt;a href='http://twitter.com/ebryn'&gt;Erik Bryn&lt;/a&gt;), getting his team sold on Ember, and how important it is to give back to the community. As always, please leave comments and feedback in the post or on our Twitter handle &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;. Thanks again for tuning in!&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F101364498' width='100%'&gt; &lt;/iframe&gt;</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This week in the Hot Seat we have Toran Billups. Toran dives into his journey into Ember from a Python developer's perspective, testing with Ember, getting his team sold on Ember, and how important it is to give back to the community. Hope you enjoy the episode!</itunes:subtitle>
+      <itunes:summary>This week in the Hot Seat we have Toran Billups. Toran dives into his journey into Ember from a Python developer's perspective, testing with Ember, getting his team sold on Ember, and how important it is to give back to the community. Hope you enjoy the episode!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>37:12</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 003: Adam Hawkins</title>
       <link>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html?utm_source=rss</link>
       <pubDate>Wed, 26 Jun 2013 00:00:00 -0700</pubDate>
