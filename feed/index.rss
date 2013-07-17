@@ -21,6 +21,26 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 005: Gordon Hempton</title>
+      <link>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005.html?utm_source=rss</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 -0700</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep005.mp3" type="audio/mpeg" length="10703434" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005</guid>
+      <description>&lt;p&gt;It&amp;#8217;s an action packed week here at the Ember Hot Seat. This episode we have &lt;a href='http://twitter.com/ghempton'&gt;Gordon Hempton&lt;/a&gt; of &lt;a href='http://grouptalent.com'&gt;GroupTalent&lt;/a&gt; on the show. In this highly anticipated episode, he talks about &lt;a href='http://epf.io'&gt;EPF, Ember Persistence Foundation,&lt;/a&gt; and why he felt it was necessary to build another data persistence library.&lt;/p&gt;
+
+&lt;p&gt;I feel bad because the conversation we had afterwards was equally engaging, so we&amp;#8217;ll bring him back to the Hot Seat soon! If you have any feedback, please don&amp;#8217;t hesitate to reach out on &lt;a href='http://twitter.com/emberhotseat'&gt;Twitter&lt;/a&gt; or comment. Thanks again for tuning in.&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F101494594' width='100%'&gt; &lt;/iframe&gt;</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This episode we have Gordon Hempton of GroupTalent on the show. In this highly anticipated episode, he talks about EPF, Ember Persistence Foundation, and why he felt it was necessary to build another data persistence library. While this is one of our shortest episodes, it's definitely full of quality information for those that may be facing the same issues as Gordon. Hope you enjoy!</itunes:subtitle>
+      <itunes:summary>This episode we have Gordon Hempton of GroupTalent on the show. In this highly anticipated episode, he talks about EPF, Ember Persistence Foundation, and why he felt it was necessary to build another data persistence library. While this is one of our shortest episodes, it's definitely full of quality information for those that may be facing the same issues as Gordon. Hope you enjoy!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>22:17</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 004: Toran Billups</title>
       <link>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html?utm_source=rss</link>
       <pubDate>Tue, 16 Jul 2013 00:00:00 -0700</pubDate>
