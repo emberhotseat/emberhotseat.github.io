@@ -1,2 +1,11 @@
 name: Ember Hot Seat
 pygments: true
+markdown: redcarpet
+exclude: ["Gemfile", "Gemfile.lock", "Rakefile"]
+title: "Ember Hot Seat"
+author:
+  name: "Ember Hot Seat"
+  email: dbrown@zendesk.com
+  github: emberhotseat
+  twitter: emberhotseat
+production_url: http://emberhotseat.com
