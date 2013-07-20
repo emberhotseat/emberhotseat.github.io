@@ -6,9 +6,23 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Thu, 18 Jul 2013 17:10:38 -0700</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2013 17:10:38 -0700</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2013 01:09:34 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2013 01:09:34 -0700</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 007: Yehuda Katz</title>
+      <link>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html?utm_source=rss</link>
+      <pubDate>Fri, 19 Jul 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007</guid>
+      <description>&lt;p&gt;Wrapping up this jam packed week on Ember Hot Seat, we have &lt;a href=&quot;http://twitter.com/wycats&quot;&gt;Yehuda Katz&lt;/a&gt;. You are in for a definite treat as he talks about Ember 1.1, Ember Data, and his views on Angular. He also gives his wish list for the platform, talks about the differences between &lt;a href=&quot;http://userserve-ak.last.fm/serve/252/67651822.png&quot;&gt;his&lt;/a&gt; and &lt;a href=&quot;http://blogs.dallasobserver.com/dc9/tupac.jpg&quot;&gt;DHH&lt;/a&gt;&amp;#39;s view on the browser as a platform, and we take a reflective view on the Ember&amp;#39;s history to talk about some of the things he might have done differently. It&amp;#39;s hard to digest our conversation into a simple intro, because our 30 minute conversation turned into an hour on a Friday night. That&amp;#39;s love and dedication, but we&amp;#39;ve &lt;a href=&quot;http://youtu.be/TxoL3uQbPoc?t=21s&quot;&gt;got to give the people what they want&lt;/a&gt;. It was a definitely pleasure and I learned a ton, so I&amp;#39;m sure you all will as well. &lt;/p&gt;
+
+&lt;p&gt;Oh and before I forget, I made reference to a &lt;a href=&quot;http://ryanflorence.com/2013/es6-modules-and-browser-app-delivery/&quot;&gt;post&lt;/a&gt; by &lt;a href=&quot;http://twitter.com/ryanflorence&quot;&gt;Ryan Florence&lt;/a&gt;. He talks about the need for better tooling and dependency management in browsers. It&amp;#39;s a very informative post and Yehuda also talks about the need for a better story around this issue. Without further delay...&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F101825382&quot;&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 006: James Rosen</title>
