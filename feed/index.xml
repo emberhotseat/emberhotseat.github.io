@@ -6,9 +6,25 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Sat, 20 Jul 2013 01:31:58 -0700</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2013 01:31:58 -0700</lastBuildDate>
+    <pubDate>Thu, 25 Jul 2013 01:25:32 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Jul 2013 01:25:32 -0700</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 008: Alex Matchneer</title>
+      <link>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html?utm_source=rss</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008</guid>
+      <description>&lt;p&gt;Slowing down on the prolific rate of output a bit, we have this week&amp;#39;s guest &lt;a href=&quot;https://twitter.com/machty&quot;&gt;Alex Matchneer&lt;/a&gt; Alex talks about his inspiration about the Ember Router in RC6, emblem.js, and &lt;a href=&quot;http://embercasts.com&quot;&gt;Embercasts&lt;/a&gt;. We also talk about his journey into the open source world and gives advice on how people can get started.&lt;/p&gt;
+
+&lt;p&gt;I want to apologize in advance for some of the sound glitches. Skype was not being very friendly that day. Thanks again for listening and I hope you enjoy.&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F102513427&quot;&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 007: Yehuda Katz</title>
