@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ember Hot Seat Episode 009
+title:  "Ember Hot Seat Episode 009: Eric Berry"
 author: Ember Hot Seat
 comments: true
 duration: 33:25
