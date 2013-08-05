@@ -6,9 +6,23 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Thu, 25 Jul 2013 01:25:32 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2013 01:25:32 -0700</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2013 13:53:30 -0700</pubDate>
+    <lastBuildDate>Mon, 05 Aug 2013 13:53:30 -0700</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 009: Eric Berry</title>
+      <link>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html?utm_source=rss</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009</guid>
+      <description>&lt;p&gt;This week in the Hot Seat we have &lt;a href=&quot;http://twitter.com/cavneb&quot;&gt;Eric Berry&lt;/a&gt;. Eric&amp;#39;s written some great &lt;a href=&quot;http://coderberry.me/&quot;&gt;blog posts&lt;/a&gt; recently and I wanted to get his unique view of Ember and highlight some of the work he&amp;#39;s done. If you&amp;#39;re looking at Ember or need an extra push diving into the platform, this is a great episode to listen to. Thanks again for tuning in. &lt;/p&gt;
+
+&lt;p&gt;-DeVaris Brown&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F104155835&quot;&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 008: Alex Matchneer</title>

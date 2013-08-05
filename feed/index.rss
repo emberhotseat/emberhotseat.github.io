@@ -21,6 +21,26 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 009: Eric Berry</title>
+      <link>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html?utm_source=rss</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 -0700</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep009.mp3" type="audio/mpeg" length="16042445" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009</guid>
+      <description>&lt;p&gt;This week in the Hot Seat we have &lt;a href=&quot;http://twitter.com/cavneb&quot;&gt;Eric Berry&lt;/a&gt;. Eric&amp;#39;s written some great &lt;a href=&quot;http://coderberry.me/&quot;&gt;blog posts&lt;/a&gt; recently and I wanted to get his unique view of Ember and highlight some of the work he&amp;#39;s done. If you&amp;#39;re looking at Ember or need an extra push diving into the platform, this is a great episode to listen to. Thanks again for tuning in. &lt;/p&gt;
+
+&lt;p&gt;-DeVaris Brown&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F104155835&quot;&gt; &lt;/iframe&gt;
+</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This week in the Hot Seat we have Eric Berry. Eric's written some great blog posts recently and I wanted to get his unique view of Ember and highlight some of the work he's done. If you're looking at Ember or need an extra push diving into the platform, this is a great episode to listen to.</itunes:subtitle>
+      <itunes:summary>This week in the Hot Seat we have Eric Berry. Eric's written some great blog posts recently and I wanted to get his unique view of Ember and highlight some of the work he's done. If you're looking at Ember or need an extra push diving into the platform, this is a great episode to listen to.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>33:25</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 008: Alex Matchneer</title>
       <link>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html?utm_source=rss</link>
       <pubDate>Wed, 24 Jul 2013 00:00:00 -0700</pubDate>
