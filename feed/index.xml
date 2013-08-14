@@ -6,9 +6,25 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Mon, 05 Aug 2013 13:53:30 -0700</pubDate>
-    <lastBuildDate>Mon, 05 Aug 2013 13:53:30 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Aug 2013 18:27:59 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Aug 2013 18:27:59 -0700</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 10: Luke Melia</title>
+      <link>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10.html?utm_source=rss</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10</guid>
+      <description>&lt;p&gt;Back at it again with another episode of Ember Hot Seat. We have a very special guest this time around, &lt;a href=&quot;https://twitter.com/lukemelia&quot;&gt;Luke Melia&lt;/a&gt; from &lt;a href=&quot;https://www.yapp.us/&quot;&gt;Yapp&lt;/a&gt;. We talk about a host of things including Ember performance, why he chose Ember at Yapp, balancing contributing to the platform and shipping product, and his opinion on what is Ember&amp;#39;s killer feature. Luke also puts me in the Hot Seat at the end of the show, so it&amp;#39;s definitely worth listening.&lt;/p&gt;
+
+&lt;p&gt;Also before I get the tweets, I know the audio is off on this episode. Luke apparently has THE loudest headset microphone known to man :-) and I didn&amp;#39;t feel like going in and editing an hour of audio to get the levels right for both of us. I promise I&amp;#39;ll do an audio check the next time. Hopefully you enjoy listening as much as I did interviewing. Thank you all again for tuning in and if you have any feedback, feel free to comment or &lt;a href=&quot;http://twitter.com/emberhotseat&quot;&gt;tweet us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F105325515&quot;&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 009: Eric Berry</title>
