@@ -6,14 +6,28 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Tue, 13 Aug 2013 18:27:59 -0700</pubDate>
-    <lastBuildDate>Tue, 13 Aug 2013 18:27:59 -0700</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2013 15:35:08 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2013 15:35:08 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Ember Hot Seat Episode 11: Stefan Penner</title>
+      <link>http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11.html?utm_source=rss</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 -0500</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11</guid>
+      <description>&lt;p&gt;This week in the Hot Seat we have Yapp developer and Ember core team member &lt;a href=&quot;https://twitter.com/stefanpenner&quot;&gt;Stefan Penner&lt;/a&gt;. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Hope you all enjoy!&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F107706103&quot;&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Ember Hot Seat Episode 10: Luke Melia</title>
       <link>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10.html?utm_source=rss</link>
-      <pubDate>Tue, 13 Aug 2013 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10</guid>
       <description>&lt;p&gt;Back at it again with another episode of Ember Hot Seat. We have a very special guest this time around, &lt;a href=&quot;https://twitter.com/lukemelia&quot;&gt;Luke Melia&lt;/a&gt; from &lt;a href=&quot;https://www.yapp.us/&quot;&gt;Yapp&lt;/a&gt;. We talk about a host of things including Ember performance, why he chose Ember at Yapp, balancing contributing to the platform and shipping product, and his opinion on what is Ember&amp;#39;s killer feature. Luke also puts me in the Hot Seat at the end of the show, so it&amp;#39;s definitely worth listening.&lt;/p&gt;
@@ -29,7 +43,7 @@
     <item>
       <title>Ember Hot Seat Episode 009: Eric Berry</title>
       <link>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html?utm_source=rss</link>
-      <pubDate>Mon, 05 Aug 2013 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009</guid>
       <description>&lt;p&gt;This week in the Hot Seat we have &lt;a href=&quot;http://twitter.com/cavneb&quot;&gt;Eric Berry&lt;/a&gt;. Eric&amp;#39;s written some great &lt;a href=&quot;http://coderberry.me/&quot;&gt;blog posts&lt;/a&gt; recently and I wanted to get his unique view of Ember and highlight some of the work he&amp;#39;s done. If you&amp;#39;re looking at Ember or need an extra push diving into the platform, this is a great episode to listen to. Thanks again for tuning in. &lt;/p&gt;
@@ -43,7 +57,7 @@
     <item>
       <title>Ember Hot Seat Episode 008: Alex Matchneer</title>
       <link>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html?utm_source=rss</link>
-      <pubDate>Wed, 24 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008</guid>
       <description>&lt;p&gt;Slowing down on the prolific rate of output a bit, we have this week&amp;#39;s guest &lt;a href=&quot;https://twitter.com/machty&quot;&gt;Alex Matchneer&lt;/a&gt; Alex talks about his inspiration about the Ember Router in RC6, emblem.js, and &lt;a href=&quot;http://embercasts.com&quot;&gt;Embercasts&lt;/a&gt;. We also talk about his journey into the open source world and gives advice on how people can get started.&lt;/p&gt;
@@ -59,7 +73,7 @@
     <item>
       <title>Ember Hot Seat Episode 007: Yehuda Katz</title>
       <link>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html?utm_source=rss</link>
-      <pubDate>Fri, 19 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 19 Jul 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007</guid>
       <description>&lt;p&gt;Wrapping up this jam packed week on Ember Hot Seat, we have &lt;a href=&quot;http://twitter.com/wycats&quot;&gt;Yehuda Katz&lt;/a&gt;. You are in for a definite treat as he talks about Ember 1.1, Ember Data, and his views on Angular. He also gives his wish list for the platform, talks about the differences between &lt;a href=&quot;http://userserve-ak.last.fm/serve/252/67651822.png&quot;&gt;his&lt;/a&gt; and &lt;a href=&quot;http://blogs.dallasobserver.com/dc9/tupac.jpg&quot;&gt;DHH&lt;/a&gt;&amp;#39;s view on the browser as a platform, and we take a reflective view on the Ember&amp;#39;s history to talk about some of the things he might have done differently. It&amp;#39;s hard to digest our conversation into a simple intro, because our 30 minute conversation turned into an hour on a Friday night. That&amp;#39;s love and dedication, but we&amp;#39;ve &lt;a href=&quot;http://youtu.be/TxoL3uQbPoc?t=21s&quot;&gt;got to give the people what they want&lt;/a&gt;. It was a definitely pleasure and I learned a ton, so I&amp;#39;m sure you all will as well. &lt;/p&gt;
@@ -73,7 +87,7 @@
     <item>
       <title>Ember Hot Seat Episode 006: James Rosen</title>
       <link>http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006.html?utm_source=rss</link>
-      <pubDate>Thu, 18 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006</guid>
       <description>&lt;p&gt;Continuing our busy week on Ember Hot Seat, we have my fellow Zengineer, &lt;a href=&quot;http://twitter.com/jamesarosen&quot;&gt;James A. Rosen&lt;/a&gt;! James gives insights as to how we&amp;#39;re using Ember at &lt;a href=&quot;http://developer.zendesk.com&quot;&gt;Zendesk&lt;/a&gt; including the long road in upgrading to 1.0, internationalization, data persistance, testing, and a lot of other cool things we do. James also gives some tips for staying happy and his personal favorite recipe he learned while studying culinary arts in Italy. I call it the &amp;quot;Abuse of Power&amp;quot; episode, but man does it feel classy :-) I hope you all enjoy!&lt;/p&gt;
@@ -87,7 +101,7 @@
     <item>
       <title>Ember Hot Seat Episode 005: Gordon Hempton</title>
       <link>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005.html?utm_source=rss</link>
-      <pubDate>Wed, 17 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005</guid>
       <description>&lt;p&gt;It&amp;#39;s an action packed week here at the Ember Hot Seat. This episode we have &lt;a href=&quot;http://twitter.com/ghempton&quot;&gt;Gordon Hempton&lt;/a&gt; of &lt;a href=&quot;http://grouptalent.com&quot;&gt;GroupTalent&lt;/a&gt; on the show. In this highly anticipated episode, he talks about &lt;a href=&quot;http://epf.io&quot;&gt;EPF, Ember Persistence Foundation,&lt;/a&gt; and why he felt it was necessary to build another data persistence library.&lt;/p&gt;
@@ -103,7 +117,7 @@
     <item>
       <title>Ember Hot Seat Episode 004: Toran Billups</title>
       <link>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html?utm_source=rss</link>
-      <pubDate>Tue, 16 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004</guid>
       <description>&lt;p&gt;Hey there Embereños! Sorry for the delay in updates. It was the holiday season, so that meant travel for everyone, including myself. I&amp;#39;m fortunate to have my midwest brethren, &lt;a href=&quot;http://twitter.com/toranb&quot;&gt;Toran Billups&lt;/a&gt; on the show this week. Toran dives into his journey into Ember from a Python developer&amp;#39;s perspective, testing with Ember(shoutout to &lt;a href=&quot;http://twitter.com/ebryn&quot;&gt;Erik Bryn&lt;/a&gt;), getting his team sold on Ember, and how important it is to give back to the community. As always, please leave comments and feedback in the post or on our Twitter handle &lt;a href=&quot;http://twitter.com/emberhotseat&quot;&gt;@emberhotseat&lt;/a&gt;. Thanks again for tuning in!&lt;/p&gt;
@@ -117,7 +131,7 @@
     <item>
       <title>Ember Hot Seat Episode 003: Adam Hawkins</title>
       <link>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html?utm_source=rss</link>
-      <pubDate>Wed, 26 Jun 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003</guid>
       <description>&lt;p&gt;This week in the Hot Seat, we have our first international guest &lt;a href=&quot;http://twitter.com/adman65&quot;&gt;Adam Hawkins&lt;/a&gt;. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics. &lt;/p&gt;
@@ -131,7 +145,7 @@
     <item>
       <title>Ember Hot Seat Episode 002: Kasper Tidemann</title>
       <link>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html?utm_source=rss</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002</guid>
       <description>&lt;p&gt;Hey Ember Hot Seat listeners! We&amp;#39;re back this week with &lt;a href=&quot;http://twitter.com/kaspertidemann&quot;&gt;Kasper Tidemann&lt;/a&gt;, CTO and cofounder of Meemo, in the Hot Seat. He&amp;#39;s going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he&amp;#39;s overcome some of the difficulties. We also touch on why it&amp;#39;s important to give back to the community and why Ember was the framework of choice for his company. Kasper made mention of his &lt;a href=&quot;http://kaspertidemann.com&quot;&gt;blog&lt;/a&gt; and to a video he would record of his own JS framework &lt;a href=&quot;http://vimeo.com/68185861&quot;&gt;meeho.js&lt;/a&gt;. I hope you enjoy!&lt;/p&gt;
@@ -149,7 +163,7 @@
     <item>
       <title>Ember Hot Seat Episode 001: Tom Dale</title>
       <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 22 May 2013 00:00:00 -0500</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
       <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#39;s episode, we speak with &lt;a href=&quot;http://twitter.com/tomdale&quot;&gt;Tom Dale&lt;/a&gt;, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#39;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;

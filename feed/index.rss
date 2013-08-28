@@ -21,9 +21,29 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 11: Stefan Penner</title>
+      <link>http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11.html?utm_source=rss</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 -0500</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep011.mp3" type="audio/mpeg" length="22985374" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11</guid>
+      <description>&lt;p&gt;This week in the Hot Seat we have Yapp developer and Ember core team member &lt;a href=&quot;https://twitter.com/stefanpenner&quot;&gt;Stefan Penner&lt;/a&gt;. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Hope you all enjoy!&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F107706103&quot;&gt; &lt;/iframe&gt;
+</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This week in the Hot Seat we have Yapp developer and Ember core team member Stefan Penner. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Happy listening!</itunes:subtitle>
+      <itunes:summary>This week in the Hot Seat we have Yapp developer and Ember core team member Stefan Penner. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Happy listening!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>47:53</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 10: Luke Melia</title>
       <link>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10.html?utm_source=rss</link>
-      <pubDate>Tue, 13 Aug 2013 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep010.mp3" type="audio/mpeg" length="24826693" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10</guid>
@@ -45,7 +65,7 @@
     <item>
       <title>Ember Hot Seat Episode 009: Eric Berry</title>
       <link>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html?utm_source=rss</link>
-      <pubDate>Mon, 05 Aug 2013 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep009.mp3" type="audio/mpeg" length="16042445" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009</guid>
@@ -65,7 +85,7 @@
     <item>
       <title>Ember Hot Seat Episode 008: Alex Matchneer</title>
       <link>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html?utm_source=rss</link>
-      <pubDate>Wed, 24 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep008.mp3" type="audio/mpeg" length="17290680" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008</guid>
@@ -87,7 +107,7 @@
     <item>
       <title>Ember Hot Seat Episode 007: Yehuda Katz</title>
       <link>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html?utm_source=rss</link>
-      <pubDate>Fri, 19 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 19 Jul 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep007.mp3" type="audio/mpeg" length="24758148" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007</guid>
@@ -107,7 +127,7 @@
     <item>
       <title>Ember Hot Seat Episode 006: James Rosen</title>
       <link>http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006.html?utm_source=rss</link>
-      <pubDate>Thu, 18 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep006.mp3" type="audio/mpeg" length="17274797" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006</guid>
@@ -127,7 +147,7 @@
     <item>
       <title>Ember Hot Seat Episode 005: Gordon Hempton</title>
       <link>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005.html?utm_source=rss</link>
-      <pubDate>Wed, 17 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep005.mp3" type="audio/mpeg" length="10703434" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005</guid>
@@ -149,7 +169,7 @@
     <item>
       <title>Ember Hot Seat Episode 004: Toran Billups</title>
       <link>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html?utm_source=rss</link>
-      <pubDate>Tue, 16 Jul 2013 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep004.mp3" type="audio/mpeg" length="17861403" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004</guid>
@@ -169,7 +189,7 @@
     <item>
       <title>Ember Hot Seat Episode 003: Adam Hawkins</title>
       <link>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html?utm_source=rss</link>
-      <pubDate>Wed, 26 Jun 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep003.mp3" type="audio/mpeg" length="18431918" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003</guid>
@@ -189,7 +209,7 @@
     <item>
       <title>Ember Hot Seat Episode 002: Kasper Tidemann</title>
       <link>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html?utm_source=rss</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep002.mp3" type="audio/mpeg" length="18182396" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002</guid>
@@ -213,7 +233,7 @@
     <item>
       <title>Ember Hot Seat Episode 001: Tom Dale</title>
       <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 22 May 2013 00:00:00 -0500</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep001.mp3" type="audio/mpeg" length="18776734" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
