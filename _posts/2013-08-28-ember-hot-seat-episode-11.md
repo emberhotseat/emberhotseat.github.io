@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ember Hot Seat Episode 11: Stefan Penner"
+title:  "Ember Hot Seat Episode 011: Stefan Penner"
 author: Ember Hot Seat
 comments: true
 duration: 47:53

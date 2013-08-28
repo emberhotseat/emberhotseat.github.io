@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ember Hot Seat Episode 10: Luke Melia"
+title:  "Ember Hot Seat Episode 010: Luke Melia"
 author: Ember Hot Seat
 comments: true
 duration: 51:43
