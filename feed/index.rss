@@ -21,13 +21,31 @@
     </itunes:category>
     
     <item>
+      <title>Ember Hot Seat Episode 014: Jeremy Mack</title>
+      <link>http://emberhotseat.com/2014/04/08/ember-hot-seat-episode-014.html?utm_source=rss</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 -0700</pubDate>
+      <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep014.mp3" type="audio/mpeg" length="20441047" />
+      <author>Ember Hot Seat</author>
+      <guid>http://emberhotseat.com/2014/04/08/ember-hot-seat-episode-014</guid>
+      <description>&lt;p&gt;This week in the Hot Seat, we have &lt;a href=&quot;https://twitter.com/mutewinter&quot;&gt;Jeremy Mack&lt;/a&gt; from &lt;a href=&quot;http://seesparkbox.com/&quot;&gt;SparkBox&lt;/a&gt;. We talk about his amazing Ember application &lt;a href=&quot;http://fnd.io&quot;&gt;fnd.io&lt;/a&gt;, his development toolset he built with Brunch called &lt;a href=&quot;https://github.com/mutewinter/tapas-with-ember&quot;&gt;tapas with Ember&lt;/a&gt;, and his unique history in the Air Force. We also talk about how he got started with Ember and even have an exclusive sneak peek into some coming features for fnd.io. Hope you enjoy!&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/143816595&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true&quot;&gt; &lt;/iframe&gt;
+</description>
+      <itunes:author>Ember Hot Seat</itunes:author>
+      <itunes:subtitle>This week in the Hot Seat, we have Jeremy Mack from SparkBox. We talk about his amazing Ember application fnd.io, his development toolset he built with Brunch called tapas with Ember, and his unique history in the Air Force. We also talk about how he got started with Ember and even have an exclusive sneak peek into some coming features for fnd.io. Hope you enjoy!</itunes:subtitle>
+      <itunes:summary>This week in the Hot Seat, we have Jeremy Mack from SparkBox. We talk about his amazing Ember application fnd.io, his development toolset he built with Brunch called tapas with Ember, and his unique history in the Air Force. We also talk about how he got started with Ember and even have an exclusive sneak peek into some coming features for fnd.io. Hope you enjoy!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2554.0</itunes:duration>
+    </item>
+    
+    <item>
       <title>Ember Hot Seat Episode 013: Erik Bryn</title>
       <link>http://emberhotseat.com/2014/01/29/ember-hot-seat-episode-013.html?utm_source=rss</link>
       <pubDate>Wed, 29 Jan 2014 00:00:00 -0800</pubDate>
       <enclosure url="https://ehsaudio.s3-us-west-1.amazonaws.com/ep013.mp3" type="audio/mpeg" length="46931855" />
       <author>Ember Hot Seat</author>
       <guid>http://emberhotseat.com/2014/01/29/ember-hot-seat-episode-013</guid>
-      <description>&lt;p&gt;Welcome back! Sorry for the hiatus, but I come bearing gifts. This week we have Ember Core Team member &lt;a href=&quot;https://twitter.com/ebryn&quot;&gt;Erik Bryn&lt;/a&gt; in the Hot Seat. We talk about HTMLBars and his not so scientific but cool anyways showdown with React, upgrading &lt;a href=&quot;http://developer.zendesk.com&quot;&gt;Zendesk&lt;/a&gt; to Ember 1.X, Ember testing, the landscape of the Ember economy, and the hierarchy of his favorite bourbons. If you&amp;#39;ve seen Erik talk, you know his appreciation of fine whiskey and bourbon. Also if you haven&amp;#39;t done it already, please grab your tickets for &lt;a href=&quot;http://emberconf.com&quot;&gt;EmberConf&lt;/a&gt;. To say they have been selling like hot cakes would be an understatement. Until next time. &lt;/p&gt;
+      <description>&lt;p&gt;Welcome back! Sorry for the hiatus, but I come bearing gifts. This week we have Ember Core Team member &lt;a href=&quot;https://twitter.com/ebryn&quot;&gt;Erik Bryn&lt;/a&gt; in the Hot Seat. We talk about HTMLBars and his not so scientific but cool anyways showdown with React, upgrading &lt;a href=&quot;http://developer.zendesk.com&quot;&gt;Zendesk&lt;/a&gt; to Ember 1.X, Ember testing, the landscape of the Ember economy, and the hierarchy of his favorite bourbons. If you&amp;#39;ve seen Erik talk, you know his appreciation of fine whiskey and bourbon. Also if you haven&amp;#39;t done it already, please grab your tickets for &lt;a href=&quot;http://emberconf.com&quot;&gt;EmberConf&lt;/a&gt;. To say they have been selling like hot cakes would be an understatement. Until next time.&lt;/p&gt;
 
 &lt;p&gt;P.S. If anyone wants to be in the Hot Seat contact me via &lt;a href=&quot;https://twitter.com/emberhotseat&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
@@ -37,7 +55,7 @@
       <itunes:subtitle>This week we have Ember Core Team member Erik Bryn in the Hot Seat. We talk about HTMLBars and his not so scientific but cool anyways showdown with React, upgrading Zendesk to Ember 1.X, Ember testing, the landscape of the Ember economy, and the hierarchy of his favorite bourbons. Enjoy!</itunes:subtitle>
       <itunes:summary>This week we have Ember Core Team member Erik Bryn in the Hot Seat. We talk about HTMLBars and his not so scientific but cool anyways showdown with React, upgrading Zendesk to Ember 1.X, Ember testing, the landscape of the Ember economy, and the hierarchy of his favorite bourbons. Enjoy!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>32:35</itunes:duration>
+      <itunes:duration>1955.0</itunes:duration>
     </item>
     
     <item>
@@ -61,7 +79,7 @@
       <itunes:subtitle>This week in the Hot Seat, we have Brian Cardarella from DockYard. We cover a lot of things from Ember validations, to his involvement in the Boston and DC Ember communities, running a consultancy that is looking to specialize in Ember, coming to Ember from a Rails background, some pain points with Ember, and his self admitted tragic experience speaking at Ember Camp. Hope you enjoy!</itunes:subtitle>
       <itunes:summary>This week in the Hot Seat, we have Brian Cardarella from DockYard. We cover a lot of things from Ember validations, to his involvement in the Boston and DC Ember communities, running a consultancy that is looking to specialize in Ember, coming to Ember from a Rails background, some pain points with Ember, and his self admitted tragic experience speaking at Ember Camp. Hope you enjoy!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>38:01</itunes:duration>
+      <itunes:duration>2281.0</itunes:duration>
     </item>
     
     <item>
@@ -81,7 +99,7 @@
       <itunes:subtitle>This week in the Hot Seat we have Yapp developer and Ember core team member Stefan Penner. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Happy listening!</itunes:subtitle>
       <itunes:summary>This week in the Hot Seat we have Yapp developer and Ember core team member Stefan Penner. We talk about the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0. We also get into some performance tweaks you may be able to use to speed up your Ember application. Happy listening!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>47:53</itunes:duration>
+      <itunes:duration>2873.0</itunes:duration>
     </item>
     
     <item>
@@ -103,7 +121,7 @@
       <itunes:subtitle>Back at it again with another episode of Ember Hot Seat. We have a very special guest this time around, Luke Melia from Yapp. We talk about a host of things including Ember performance, why he chose Ember at Yapp, balancing contributing to the platform and shipping product, and his opinion on what is Ember's killer feature. Luke also puts me in the Hot Seat at the end of the show, so it's definitely worth listening.</itunes:subtitle>
       <itunes:summary>Back at it again with another episode of Ember Hot Seat. We have a very special guest this time around, Luke Melia from Yapp. We talk about a host of things including Ember performance, why he chose Ember at Yapp, balancing contributing to the platform and shipping product, and his opinion on what is Ember's killer feature. Luke also puts me in the Hot Seat at the end of the show, so it's definitely worth listening.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>51:43</itunes:duration>
+      <itunes:duration>3103.0</itunes:duration>
     </item>
     
     <item>
@@ -123,7 +141,7 @@
       <itunes:subtitle>This week in the Hot Seat we have Eric Berry. Eric's written some great blog posts recently and I wanted to get his unique view of Ember and highlight some of the work he's done. If you're looking at Ember or need an extra push diving into the platform, this is a great episode to listen to.</itunes:subtitle>
       <itunes:summary>This week in the Hot Seat we have Eric Berry. Eric's written some great blog posts recently and I wanted to get his unique view of Ember and highlight some of the work he's done. If you're looking at Ember or need an extra push diving into the platform, this is a great episode to listen to.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>33:25</itunes:duration>
+      <itunes:duration>2005.0</itunes:duration>
     </item>
     
     <item>
@@ -145,7 +163,7 @@
       <itunes:subtitle>This week on the Hot Seat we have a special guest, Alex Matchneer. Alex talks about his inspiration about the Ember Router in RC6, emblem.js, and Embercasts. We also talk about his journey into the open source world and Alex gives advice on how people can get started.</itunes:subtitle>
       <itunes:summary>This week on the Hot Seat we have a special guest, Alex Matchneer. Alex talks about his inspiration about the Ember Router in RC6, emblem.js, and Embercasts. We also talk about his journey into the open source world and Alex gives advice on how people can get started.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>36:01</itunes:duration>
+      <itunes:duration>2161.0</itunes:duration>
     </item>
     
     <item>
@@ -165,7 +183,7 @@
       <itunes:subtitle>Wrapping up this jam packed week on Ember Hot Seat, we have Yehuda Katz. You are in for a definite treat as he talks about Ember 1.1, Ember Data, and his views on Angular. He also gives his wish list for the platform, talks about the differences between his and DHH's view on the browser as a platform, and we take a reflective view on the Ember's history to talk about some of the things he might have done differently. It's hard to digest our conversation into a simple intro, because our 30 minute conversation turned into an hour on a Friday night. That's love and dedication, but we've got to give the people what they want. It was a definitely pleasure and I learned a ton, so I'm sure you all will as well.</itunes:subtitle>
       <itunes:summary>Wrapping up this jam packed week on Ember Hot Seat, we have Yehuda Katz. You are in for a definite treat as he talks about Ember 1.1, Ember Data, and his views on Angular. He also gives his wish list for the platform, talks about the differences between his and DHH's view on the browser as a platform, and we take a reflective view on the Ember's history to talk about some of the things he might have done differently. It's hard to digest our conversation into a simple intro, because our 30 minute conversation turned into an hour on a Friday night. That's love and dedication, but we've got to give the people what they want. It was a definitely pleasure and I learned a ton, so I'm sure you all will as well.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>51:34</itunes:duration>
+      <itunes:duration>3094.0</itunes:duration>
     </item>
     
     <item>
@@ -185,7 +203,7 @@
       <itunes:subtitle>Continuing our busy week on Ember Hot Seat, we have my fellow Zengineer, James A. Rosen! James gives insights as to how we're using Ember at Zendesk. He talks about the long road in upgrading to 1.0, internationalization, data persistance, testing, and a lot of other cool things we do to make sure our Ember application is performant for millions of users. James also gives some tips for staying happy and his personal favorite recipe he learned while studying culinary arts in Italy. Enjoy!</itunes:subtitle>
       <itunes:summary>Continuing our busy week on Ember Hot Seat, we have my fellow Zengineer, James A. Rosen! James gives insights as to how we're using Ember at Zendesk. He talks about the long road in upgrading to 1.0, internationalization, data persistance, testing, and a lot of other cool things we do to make sure our Ember application is performant for millions of users. James also gives some tips for staying happy and his personal favorite recipe he learned while studying culinary arts in Italy. Enjoy!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>35:59</itunes:duration>
+      <itunes:duration>2159.0</itunes:duration>
     </item>
     
     <item>
@@ -207,7 +225,7 @@
       <itunes:subtitle>This episode we have Gordon Hempton of GroupTalent on the show. In this highly anticipated episode, he talks about EPF, Ember Persistence Foundation, and why he felt it was necessary to build another data persistence library. While this is one of our shortest episodes, it's definitely full of quality information for those that may be facing the same issues as Gordon. Hope you enjoy!</itunes:subtitle>
       <itunes:summary>This episode we have Gordon Hempton of GroupTalent on the show. In this highly anticipated episode, he talks about EPF, Ember Persistence Foundation, and why he felt it was necessary to build another data persistence library. While this is one of our shortest episodes, it's definitely full of quality information for those that may be facing the same issues as Gordon. Hope you enjoy!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>22:17</itunes:duration>
+      <itunes:duration>1337.0</itunes:duration>
     </item>
     
     <item>
@@ -227,7 +245,7 @@
       <itunes:subtitle>This week in the Hot Seat we have Toran Billups. Toran dives into his journey into Ember from a Python developer's perspective, testing with Ember, getting his team sold on Ember, and how important it is to give back to the community. Hope you enjoy the episode!</itunes:subtitle>
       <itunes:summary>This week in the Hot Seat we have Toran Billups. Toran dives into his journey into Ember from a Python developer's perspective, testing with Ember, getting his team sold on Ember, and how important it is to give back to the community. Hope you enjoy the episode!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>37:12</itunes:duration>
+      <itunes:duration>2232.0</itunes:duration>
     </item>
     
     <item>
@@ -247,7 +265,7 @@
       <itunes:subtitle>This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.</itunes:subtitle>
       <itunes:summary>This week in the Hot Seat, we have our first international guest Adam Hawkins. Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>38:23</itunes:duration>
+      <itunes:duration>2303.0</itunes:duration>
     </item>
     
     <item>
@@ -271,7 +289,7 @@
       <itunes:subtitle>We're back this week with Kasper Tidemann, CTO and cofounder of Meemo, in the Hot Seat. He's going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he's overcome some of the difficulties. We also touch on why it's important to give back to the community and why Ember was the framework of choice for his company.</itunes:subtitle>
       <itunes:summary>We're back this week with Kasper Tidemann, CTO and cofounder of Meemo, in the Hot Seat. He's going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he's overcome some of the difficulties. We also touch on why it's important to give back to the community and why Ember was the framework of choice for his company.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>37:51</itunes:duration>
+      <itunes:duration>2271.0</itunes:duration>
     </item>
     
     <item>
@@ -291,7 +309,7 @@
       <itunes:subtitle>In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.</itunes:subtitle>
       <itunes:summary>In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>39:06</itunes:duration>
+      <itunes:duration>2346.0</itunes:duration>
     </item>
     
 
