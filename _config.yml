@@ -1,5 +1,5 @@
 name: Ember Hot Seat
-pygments: true
+highlighter: pygments,
 markdown: redcarpet
 exclude: ["Gemfile", "Gemfile.lock", "Rakefile"]
 title: "Ember Hot Seat"
